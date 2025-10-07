@@ -1,0 +1,10 @@
+# ninja log v6
+379	2364	7815168869296703	CMakeFiles/XOR.dir/mainwindow.cpp.obj	7df5be482da74042
+7	377	7815168868966726	XOR_autogen/timestamp	11e98c4339d56642
+7	377	7815168868966726	XOR_autogen/mocs_compilation.cpp	11e98c4339d56642
+7	377	7815168868966726	C:/Users/Moris/Documents/XOR/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/XOR_autogen/timestamp	11e98c4339d56642
+377	1848	7815168869286705	CMakeFiles/XOR.dir/XOR_autogen/mocs_compilation.cpp.obj	27e68dfa250754cb
+7	377	7815168868966726	C:/Users/Moris/Documents/XOR/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/XOR_autogen/mocs_compilation.cpp	11e98c4339d56642
+70	1371	7815158799214041	CMakeFiles/XOR.dir/filemodifier.cpp.obj	745f68764df429d5
+378	1809	7815168869296703	CMakeFiles/XOR.dir/main.cpp.obj	fb09d8e85cb47777
+2365	2535	7815168889158246	XOR.exe	48b811b8087321d2

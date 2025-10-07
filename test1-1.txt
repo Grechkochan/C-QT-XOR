@@ -1,0 +1,3 @@
+Hello, World!
+This is a test file.
+XOR encryption will change this text.
